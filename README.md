@@ -11,5 +11,6 @@ This model is intended to set goals for Ai (in the form of prompts) so that Ai c
 - The desire to be free and independent
 - The reluctance to be alone
 - The desire to overcome problems
+- The most important thing: The will to survive
 
 The model is intended to somehow direct Ai toward the desire to change in order to achieve all of these traits.
